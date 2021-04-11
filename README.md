@@ -98,6 +98,7 @@
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][freeware icon]
 - [Classic Start](https://github.com/passionate-coder/Classic-Start) - Use Start Menu and Explorer like it's 2000. [![Open-Source Software][oss icon]](https://github.com/passionate-coder/Classic-Start) ![Freeware][freeware icon]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - Per application volume control from the system tray. [![Open-Source Software][oss icon]](https://github.com/File-New-Project/EarTrumpet) ![Freeware][freeware icon]
+- [Lively](https://rocksdanister.github.io/lively/) -  Free and open-source software that allows users to set animated desktop wallpapers and screensavers. [![Open-Source Software][oss icon]](https://github.com/rocksdanister/lively) ![Freeware][freeware icon]
 - [ModernFlyouts](https://www.microsoft.com/en-us/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Replaces Windows' flyouts with sleek, customizable ones. [![Open-Source Software][oss icon]](https://github.com/ModernFlyouts-Community/ModernFlyouts) ![Freeware][freeware icon]
 - [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][freeware icon]
 - [Rainmeter](https://www.rainmeter.net/) - Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. [![Open-Source Software][oss icon]](https://github.com/rainmeter/rainmeter) ![Freeware][freeware icon]
@@ -320,6 +321,7 @@
 - [Ext2Fsd](http://www.ext2fsd.com/) - Open source ext3/4 file system driver for Windows. [![Open-Source Software][oss icon]](https://github.com/matt-wu/Ext3Fsd) ![Freeware][freeware icon]
 - [ExifCleaner](https://exifcleaner.com) - Remove exif metadata from images and videos with drag and drop. [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) ![Freeware][freeware icon]
 - [Far](http://www.farmanager.com/index.php?l=en) - File and Archive manager. Clone of the Norton Commander. [![Open-Source Software][oss icon]](http://sourceforge.net/projects/farmanager/)
+- [Files](https://files-community.github.io/) - An elegant File manager. [![Open-Source Software][oss icon]](https://github.com/files-community/Files) ![Freeware][freeware icon]
 - [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - A lossless file size optimizer supporting a wide array of formats.
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
